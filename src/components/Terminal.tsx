@@ -57,7 +57,7 @@ export function Terminal() {
     >
       <div className="mb-4 text-center">
         <h1 className="text-2xl">GLOBAL NETWORK RECONNECTION TERMINAL</h1>
-        <p className="text-sm">Year: 2184 | Status: ACTIVE | Protocol: SURVIVOR-NET</p>
+        <p className="text-sm">Year: 2103 | Status: ACTIVE | Protocol: SURVIVOR-NET</p>
       </div>
       
       {messages.map((message) => (
